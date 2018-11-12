@@ -1,4 +1,4 @@
-# [OpenPassage](../) - Server
+# [OpenPassage](../README.md) - Server
 
 ## To Do
 - [ ] Choose a database (tiedot?)

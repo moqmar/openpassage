@@ -1,4 +1,4 @@
-# [OpenPassage](../) - Hardware
+# [OpenPassage](../README.md) - Hardware
 
 ## To Do
 - [ ] Choose an SBC (Orange Pi Zero?)

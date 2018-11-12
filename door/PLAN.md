@@ -1,4 +1,4 @@
-# [OpenPassage](../) - Door
+# [OpenPassage](../README.md) - Door
 
 ## To Do
 - [ ] Wait for an NFC tag and read it
