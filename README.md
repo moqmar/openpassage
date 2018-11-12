@@ -1,8 +1,7 @@
+<img width="200" src="logo.svg">
 # OpenPassage
 
-![](logo.svg)
-
-An NFC-based open-source networked door lock for non-profits.
+> An NFC-based open-source networked door lock for non-profits.
 
 ## [Hardware](hardware/PLAN.md)
 Plans, Schematics and Todos for the hardware itself.
