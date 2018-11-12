@@ -1,4 +1,5 @@
 <img width="200" src="logo.svg">
+
 # OpenPassage
 
 > An NFC-based open-source networked door lock for non-profits.
